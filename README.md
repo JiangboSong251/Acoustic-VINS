@@ -98,7 +98,8 @@ Related paper:
 
 [2]	Jiangbo Song, Wanqing Li, and Xiangwei Zhu. Acoustic-VINS: Tightly Coupled Acoustic-Visual-Inertial Navigation System for Autonomous Underwater Vehicles[J]. IEEE Robotics and Automation Letters. 2023
 
-[3] J. Song, W. Li, R. Liu, and X. Zhu, “FGO-ILNS: Tightly Coupled Multi-Sensor Integrated Navigation System Based on Factor Graph Optimization for Autonomous Underwater Vehicle,” arXiv e-prints, p. arXiv:2310.14163, Oct. 2023.
+[3] Jiangbo Song, Wanqing Li, Xiangwei Zhu, Baoding Zhou, Dejin Zhang, Factor graph optimization based multi-source resilient fusion positioning method for autonomous underwater vehicle, Ocean Engineering,
+Volume 354, Part 2, 2026, 124925.
 
 
 ## 5.Download link
